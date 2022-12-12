@@ -1,6 +1,6 @@
 ![Shakuro UIComponents](Resources/title_image.png)
 <br><br>
-# Ready-Made-Swift-UI-Animation-Components
+# Ready Made Swift UI Animation Components
 
 Want to create a demanded app but not sure how to build the interface? Check out these UI components suitable for various application types.
 
