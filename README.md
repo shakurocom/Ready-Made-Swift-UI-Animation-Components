@@ -28,10 +28,6 @@ Want to create a demanded app but not sure how to build the interface? Check out
 
 ![](Resources/thermostat-control.gif)
 
-<p><h1 align="left"><a href="https://github.com/shakurocom/humidistat">Humidistat</a></h1></p>
-
-![](Resources/humidistat-control.gif)
-
 ## License
 
 Shakuro.PullToRefresh is released under the MIT license. [See LICENSE](https://github.com/shakurocom/Ready-Made-Swift-UI-Animation-Components/blob/master/LICENSE.md) for details.
